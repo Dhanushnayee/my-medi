@@ -1,0 +1,6 @@
+{
+  "name": "MediQueue AI - Smart Hospital Queue & Appointments",
+  "description": "PhonePe-style modern hospital queue and appointment platform with live OPD token tracking, instant booking, and AI triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
